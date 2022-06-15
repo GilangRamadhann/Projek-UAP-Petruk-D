@@ -8,7 +8,7 @@
 using namespace std;
 
 int main(){
-	
+	cout<<"hello word";
 	int p; //UNTUK MEMASUKAN PILIHAN MENU
 	
 	do{
