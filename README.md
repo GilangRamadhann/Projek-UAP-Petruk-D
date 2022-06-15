@@ -2,6 +2,7 @@
 Kelompok (Gilang, Ika, April)
 
 Program ini kami susun untuk memenuhi UAP Pemrograman Terstruktur
+Program ini kami beri tema "Queue Tiket Antrian Kereta Api"
 
 Anggota :
 1. Gilang Ramadhan (2117051082)
