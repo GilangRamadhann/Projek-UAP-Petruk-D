@@ -9,6 +9,7 @@ using namespace std;
 
 int main(){
 	cout<<"hello word";
+	cout<<"gilang, april, ika";
 	int p; //UNTUK MEMASUKAN PILIHAN MENU
 	
 	do{
